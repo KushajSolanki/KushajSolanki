@@ -16,6 +16,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KushajSolanki&show_icons=true&locale=en&layout=compact" alt="KushajSolanki" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KushajSolanki&show_icons=true&locale=en" alt="KushajSolanki" /></p>
 
 - 🌐 I’m interested in coding stuff
