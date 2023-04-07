@@ -27,9 +27,7 @@
 KushajSolanki/KushajSolanki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h3 align="centre">WELCOME TO MY ACCOUNT:<h3>
-
-   ![gif](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
+<h3 align="centre">WELCOME TO MY ACCOUNT<h3>
 
 🦖 Snake Eating my Contribution Graph :
 
