@@ -1,8 +1,9 @@
- <h1 align="center">Hi 👋, I'm Kushaj</h1>
+ <h1 align="center">Hi👋, I'm Kushaj</h1>
  <h3 align="center">Programmer from  India</h3>
   
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=KushajSolanki&label=Profile views&color=0e75b6&style=flat" alt="KushajSolanki" /> </p>
-![logo](https://github.com/KushajSolanki/KushajSolanki/blob/main/IMG_20230207_114426.png)
+ <div align="center">
+ 
+  ![logo](https://github.com/KushajSolanki/KushajSolanki/blob/main/IMG_20230207_114426.png) </d>
 
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
@@ -18,6 +19,7 @@
 
 <a href="https://www.instagram.com/kushaj_prime/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="KushajSolanki" height="30" width="40" /></a>
 </div>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=KushajSolanki&label=Profile views&color=0e75b6&style=flat" alt="KushajSolanki" /> </p>
 </p>    
 <br>
 <!-- Languages and Tools -->
