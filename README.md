@@ -2,12 +2,10 @@
  <h3 align="center">Programmer from  India</h3>
   
  <div align="center">
- 
-  ![logo](https://github.com/KushajSolanki/KushajSolanki/blob/main/IMG_20230207_114426.png) </d>
 
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    My Name is Kushaj Solanki, as a UI Product Designer, I solve your problem via user experience (UX) design & interaction design, bring your product or project to the intermediate level and add more value into it with added minimalistic UI Design.
+    My Name is Kushaj Solanki.
 <br>
 <br>
 <div align="center">
