@@ -14,12 +14,31 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushajsolanki&label=Profile%20views&color=0e75b6&style=flat" alt="kushajsolanki" /> </p>
 <div align="centre">
 <br>
+
+
+<!-- Statistics -->
+
+<h2 style="color: #44AEFB">📊 Statistics</h2>
+
+
+<div class="stats" align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=KushajSolanki)
+
+    
+<!-- compact programming languages layout -->
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KushajSolanki&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+</div>
+<!--  End Stats Cards -->
+
+
+
+
+ 
 <!-- Languages and Tools -->
 
 <h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
-<div align="center" style="display:block;">
-    <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
-</div>
+
 <br>   
 <!-- Icons Resources -->
 <!-- https://devicon.dev/ -->
@@ -103,24 +122,7 @@
 
 
 
-<!-- Statistics -->
 
-<h2 style="color: #44AEFB">📊 Statistics</h2>
-
-![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
-
-
-<div class="stats" align="center">
-
-![Kushaj Solanki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KushajSolanki)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=KushajSolanki)
-
-    
-<!-- compact programming languages layout -->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KushajSolanki&layout=compact&show_icons=true&theme=algolia&border_radius=20)
-</div>
-<!--  End Stats Cards -->
 
 ---
 <!-- Begin Footer -->
