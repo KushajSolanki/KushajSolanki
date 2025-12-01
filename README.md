@@ -11,7 +11,7 @@
 <div align="center">
 
 [Email Me](mailto:kushajsolanki0007@gmail.com)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kushajsolanki&label=Profile%20views&color=0e75b6&style=flat" alt="kushajsolanki" /> </p>
 <div align="centre">
 <h2>Connect With me</h2>
 
