@@ -9,16 +9,10 @@
 <br>
 <br>
 <div align="center">
-
+<h2>Connect With me</h2>  
 [Email Me](mailto:kushajsolanki0007@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushajsolanki&label=Profile%20views&color=0e75b6&style=flat" alt="kushajsolanki" /> </p>
 <div align="centre">
-<h2>Connect With me</h2>
-
-<a href="https://www.instagram.com/kushaj_prime/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="KushajSolanki" height="30" width="40" /></a>
-</div>
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=KushajSolanki&label=Profile views&color=0e75b6&style=flat" alt="KushajSolanki" /> </p>
-</p>    
 <br>
 <!-- Languages and Tools -->
 
